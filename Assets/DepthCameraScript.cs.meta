@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 178e0a64ecba2e448acaf759b22d9418
+timeCreated: 1539692270
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - depth_shader: {fileID: 4800000, guid: a1454f604bd6f1d44959a86e88cec234, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
